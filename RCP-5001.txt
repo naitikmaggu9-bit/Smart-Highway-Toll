@@ -1,0 +1,16 @@
+************************************************************
+          NATIONAL HIGHWAYS TOLL PLAZA AUTHORITY            
+             ELECTRONIC TOLL COLLECTION RECEIPT             
+************************************************************
+ Receipt Number    : RCP-5001
+ Date & Time       : 2026-11-18 20:13:45
+ Lane ID           : BOOTH-MANUAL
+ Vehicle Plate     : DL01AB1234
+ Vehicle Category  : CAR
+------------------------------------------------------------
+ TOLL FEE DEDUCTED : Rs. 100.00
+ REMAINING BALANCE : Rs. 950.00
+------------------------------------------------------------
+ Payment Status    : PAID VIA AUTOMATED FASTAG WALLET
+ Wish you a safe and pleasant journey!
+************************************************************

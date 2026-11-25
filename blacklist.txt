@@ -1,0 +1,2 @@
+# BLACKLISTED VEHICLES (Format: PLATE|REASON)
+DL09ZZ9999|Reported Stolen by Delhi Traffic Police
